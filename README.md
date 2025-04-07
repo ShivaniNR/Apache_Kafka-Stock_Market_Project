@@ -1,4 +1,4 @@
-# Apache_Kafka-Stock_Market_Project
+# Apache Kafka Stock Market
 
 Stock Market Kafka Real Time Data Engineering Project
 
